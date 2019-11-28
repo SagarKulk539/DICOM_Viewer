@@ -1,0 +1,20 @@
+body{
+    padding-top:20px;
+}
+
+.jumbotron{
+    background: #b4b5d6;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width:80%;
+}
+
+h1{
+    color:#2c3e50;
+}
+
+#file-upload-filename{
+    width:1100px;;
+    float:left;
+    text-align: center;
+}
